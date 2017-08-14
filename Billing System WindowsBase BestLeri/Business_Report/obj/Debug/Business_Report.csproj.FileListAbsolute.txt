@@ -1,0 +1,139 @@
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.dll
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.pdb
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\System Project\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.pdb
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\ResolveAssemblyReference.cache
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource.read.1.tlog
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource.write.1.tlog
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.dll
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.pdb
+D:\System Project\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSALESINVOICE.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.dll
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.pdb
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\ResolveAssemblyReference.cache
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSALES.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSCRAPWISE.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Form1.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Form2.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTPENDINGINVOICE.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSALESINVOICE.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.dll
+D:\Vishal\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.pdb
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.pdb
+D:\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\Business_Report\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Frm_RptTrialBalance.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTGENERALLEDGER.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_DayBook.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTPURCHASE.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSALES.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSCRAPWISE.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Form1.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Form2.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTPENDINGINVOICE.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.FRM_RPTSALESINVOICE.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.pdb
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Business_Report.pdb
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\cs\Business_Report.resources.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_CashBook.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_PRODUCTIONREPORT.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTFINISHEDGOODS.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTROOTWISEPENDING.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTROWMATERIALSTOCK.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Frm_RptTrialBalance.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTGENERALLEDGER.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_DayBook.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTPURCHASE.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSALES.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSCRAPWISE.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Form1.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Form2.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTPENDINGINVOICE.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSALESINVOICE.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_CashBook.cs.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\cs\Business_Report.resources.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.dll
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.pdb
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_Customer_Ledger.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTCOLLECTIONREPORT.resources
+D:\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTDEBTICREDITTRANSACTION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Business_Report.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Business_Report.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\cs\Business_Report.resources.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\DATA_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_GSTTAX.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTCOLLECTIONREPORT.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTDEBTICREDITTRANSACTION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_CashBook.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_Customer_Ledger.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_PRODUCTIONREPORT.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTFINISHEDGOODS.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTROOTWISEPENDING.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTROWMATERIALSTOCK.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Frm_RptTrialBalance.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTGENERALLEDGER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_DayBook.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTPURCHASE.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSALES.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSCRAPWISE.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Form1.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Form2.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTPENDINGINVOICE.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_RPTSALESINVOICE.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.FRM_CashBook.cs.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\cs\Business_Report.resources.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.csprojResolveAssemblyReference.cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\obj\Debug\Business_Report.csproj.GenerateResource.Cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\CrystalDecisions.Shared.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\CrystalDecisions.Web.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\FlashControlV71.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Business_Report\bin\Debug\System.Xml.Linq.dll

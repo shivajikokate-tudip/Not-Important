@@ -1,0 +1,389 @@
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.csproj.GenerateResource.Cache
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\Interop.ADOX.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\DATA_LAYER.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\DATA_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.dll
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TABPAGE.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.426.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.426.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe.licenses
+D:\System Project\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.569.tlog
+D:\System Project\Billing System WindowsBase\Billing_System\bin\Debug\log4net.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\log4net.dll
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.pdb
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BOXWISE_BOTTLE_FORMULA.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_CUSTOMERMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESTRANSACTION.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PROD_PROCESS.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PURCHASEPAID.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIAL.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERY.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERYCHECK.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBEXPENCESMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUPPLIERMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TABPAGE.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\Vishal\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe.licenses
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\log4net.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BOXWISE_BOTTLE_FORMULA.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.frm_Check_Invoice.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_CUSTOMERMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EMPLOYEEMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESTRANSACTION.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PERMISSION.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PROD_PROCESS.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PURCHASEPAID.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIAL.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERY.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERYCHECK.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBEXPENCESMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUPPLIERMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_UpdateInvoice.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_USERMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe.licenses
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\log4net.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.pdb
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\cs\Business_Report.resources.dll
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BOXWISE_BOTTLE_FORMULA.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_Check_Invoice.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_CUSTOMERMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EMPLOYEEMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ACCOUNTHEAD.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESTRANSACTION.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PERMISSION.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PROD_PROCESS.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PURCHASEPAID.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTTRANSACTION.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIAL.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERY.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERYCHECK.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SOURCEMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBEXPENCESMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUPPLIERMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_UpdateInvoice.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_USERMASTER.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\log4net.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\cs\Business_Report.resources.dll
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BOXWISE_BOTTLE_FORMULA.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_Check_Invoice.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_CUSTOMERMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EMPLOYEEMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ACCOUNTHEAD.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESTRANSACTION.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PERMISSION.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PROD_PROCESS.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PURCHASEPAID.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTTRANSACTION.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIAL.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERY.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERYCHECK.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SOURCEMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBEXPENCESMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUPPLIERMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_UpdateInvoice.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_USERMASTER.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Vehical_Details.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\Pd\More\RK Bestlari final\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\Business_Report.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\cs\Business_Report.resources.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BLOWING_MAKING1.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BOXWISE_BOTTLE_FORMULA.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_Check_Invoice.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_CUSTOMERMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EMPLOYEEMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ACCOUNTHEAD.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCESTRANSACTION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_EXPENCES_TRANSACTION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MEASUREMENTMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PERMISSION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PROD_PROCESS.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_PURCHASEPAID.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROOTTRANSACTION.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIAL.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ROWMATERIALMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERY.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SALESRECOVERYCHECK.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SHOPMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SOURCEMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBEXPENCESMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUPPLIERMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TRANSPORTATION_MASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_UpdateInvoice.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_USERMASTER.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Vehical_Details.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.csprojResolveAssemblyReference.cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\obj\Debug\BILLING_SYSTEM.csproj.GenerateResource.Cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\CrystalDecisions.Shared.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\Billing_System\bin\Debug\FlashControlV71.dll

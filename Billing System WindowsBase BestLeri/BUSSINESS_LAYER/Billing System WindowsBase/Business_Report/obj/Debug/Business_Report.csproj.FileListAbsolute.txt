@@ -1,0 +1,13 @@
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Business_Report.pdb
+D:\Billing System WindowsBase\Business_Report\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.pdb
+D:\Billing System WindowsBase\Business_Report\obj\Debug\Business_Report.Report_Viewer.resources
+D:\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource.read.1.tlog
+D:\Billing System WindowsBase\Business_Report\obj\Debug\GenerateResource.write.1.tlog
+D:\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\Business_Report\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\Business_Report\bin\Debug\DATA_LAYER.pdb

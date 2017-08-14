@@ -1,0 +1,90 @@
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.csproj.GenerateResource.Cache
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\Interop.ADOX.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\DATA_LAYER.dll
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\DATA_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+E:\Amol\Billing_System\Billing_System\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+E:\Amol\Billing_System\Billing_System\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe.config
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.exe
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BILLING_SYSTEM.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\Billing_System\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\Billing_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.add_form_panel.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Form1.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_COLOR_THEME.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Frm_Connection_Update.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_Dealear.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_LOGIN.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_MAIN.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ProductMaster.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.frm_splash.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\AC.ExtendedRenderer.Toolkit.KryptonListView.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.MyMessageBox.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.Properties.Resources.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.SagarLayoutPanel.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_ITEMMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_SUBITEMMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TALUKAMASTER.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.426.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.426.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_BILLINGINVOICE.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.exe.licenses
+D:\Billing System WindowsBase\Billing_System\obj\Debug\BILLING_SYSTEM.FRM_TABPAGE.resources
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.read.1.tlog
+D:\Billing System WindowsBase\Billing_System\obj\Debug\GenerateResource.write.1.tlog
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\log4net.dll
+D:\Billing System WindowsBase\Billing_System\bin\Debug\Business_Report.pdb

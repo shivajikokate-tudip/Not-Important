@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EA927AEE-E893-4530-BD85-98339DA02C30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BILLING_SYSTEM</RootNamespace>
+    <AssemblyName>BILLING_SYSTEM</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Design, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Docking, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Docking.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Navigator.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace, Version=4.4.1.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\KryptonWinFormControls.4.4.1.0\lib\net40\ComponentFactory.Krypton.Workspace.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_form_panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="add_form_panel.designer.cs">
+      <DependentUpon>add_form_panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_ds.cs" />
+    <Compile Include="FRM_BILLINGINVOICE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_BILLINGINVOICE.Designer.cs">
+      <DependentUpon>FRM_BILLINGINVOICE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_BLOWING_MAKING1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_BLOWING_MAKING1.designer.cs">
+      <DependentUpon>FRM_BLOWING_MAKING1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_BOXWISE_BOTTLE_FORMULA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_BOXWISE_BOTTLE_FORMULA.designer.cs">
+      <DependentUpon>FRM_BOXWISE_BOTTLE_FORMULA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Check_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Check_Invoice.designer.cs">
+      <DependentUpon>frm_Check_Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_COLOR_THEME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_COLOR_THEME.designer.cs">
+      <DependentUpon>FRM_COLOR_THEME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Connection_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Connection_Update.designer.cs">
+      <DependentUpon>Frm_Connection_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CUSTOMERMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CUSTOMERMASTER.designer.cs">
+      <DependentUpon>FRM_CUSTOMERMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Dealear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Dealear.Designer.cs">
+      <DependentUpon>FRM_Dealear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EMPLOYEEMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EMPLOYEEMASTER.designer.cs">
+      <DependentUpon>FRM_EMPLOYEEMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EXPENCESMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EXPENCESMASTER.designer.cs">
+      <DependentUpon>FRM_EXPENCESMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EXPENCESTRANSACTION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EXPENCESTRANSACTION.designer.cs">
+      <DependentUpon>FRM_EXPENCESTRANSACTION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EXPENCES_TRANSACTION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EXPENCES_TRANSACTION.designer.cs">
+      <DependentUpon>FRM_EXPENCES_TRANSACTION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ITEMMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ITEMMASTER.Designer.cs">
+      <DependentUpon>FRM_ITEMMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_LOGIN.designer.cs">
+      <DependentUpon>FRM_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_MAIN.designer.cs">
+      <DependentUpon>FRM_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_MEASUREMENTMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_MEASUREMENTMASTER.designer.cs">
+      <DependentUpon>FRM_MEASUREMENTMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_PERMISSION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_PERMISSION.Designer.cs">
+      <DependentUpon>FRM_PERMISSION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ProductMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ProductMaster.Designer.cs">
+      <DependentUpon>FRM_ProductMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_PROD_PROCESS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_PROD_PROCESS.designer.cs">
+      <DependentUpon>FRM_PROD_PROCESS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_PURCHASEPAID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_PURCHASEPAID.Designer.cs">
+      <DependentUpon>FRM_PURCHASEPAID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ROOTMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ROOTMASTER.designer.cs">
+      <DependentUpon>FRM_ROOTMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ROOTTRANSACTION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ROOTTRANSACTION.Designer.cs">
+      <DependentUpon>FRM_ROOTTRANSACTION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ROWMATERIAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ROWMATERIAL.Designer.cs">
+      <DependentUpon>FRM_ROWMATERIAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ROWMATERIALMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ROWMATERIALMASTER.designer.cs">
+      <DependentUpon>FRM_ROWMATERIALMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SALESRECOVERY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SALESRECOVERY.designer.cs">
+      <DependentUpon>FRM_SALESRECOVERY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SALESRECOVERYCHECK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SALESRECOVERYCHECK.designer.cs">
+      <DependentUpon>FRM_SALESRECOVERYCHECK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SHOPMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SHOPMASTER.Designer.cs">
+      <DependentUpon>FRM_SHOPMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SOURCEMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SOURCEMASTER.designer.cs">
+      <DependentUpon>FRM_SOURCEMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_splash.designer.cs">
+      <DependentUpon>frm_splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SUBEXPENCESMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SUBEXPENCESMASTER.Designer.cs">
+      <DependentUpon>FRM_SUBEXPENCESMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SUBITEMMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SUBITEMMASTER.Designer.cs">
+      <DependentUpon>FRM_SUBITEMMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_SUPPLIERMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_SUPPLIERMASTER.designer.cs">
+      <DependentUpon>FRM_SUPPLIERMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_TALUKAMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_TALUKAMASTER.Designer.cs">
+      <DependentUpon>FRM_TALUKAMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_TRANSPORTATION_MASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_TRANSPORTATION_MASTER.designer.cs">
+      <DependentUpon>FRM_TRANSPORTATION_MASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_UpdateInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_UpdateInvoice.designer.cs">
+      <DependentUpon>FRM_UpdateInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_USERMASTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_USERMASTER.Designer.cs">
+      <DependentUpon>FRM_USERMASTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Vehical_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Vehical_Details.Designer.cs">
+      <DependentUpon>FRM_Vehical_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KryptonListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MODULE.cs" />
+    <Compile Include="MODULE1.cs" />
+    <Compile Include="MyMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyMessageBox.designer.cs">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NUMERICTEXTBOX.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="add_form_panel.resx">
+      <DependentUpon>add_form_panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_BILLINGINVOICE.resx">
+      <DependentUpon>FRM_BILLINGINVOICE.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_BLOWING_MAKING1.resx">
+      <DependentUpon>FRM_BLOWING_MAKING1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_BOXWISE_BOTTLE_FORMULA.resx">
+      <DependentUpon>FRM_BOXWISE_BOTTLE_FORMULA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Check_Invoice.resx">
+      <DependentUpon>frm_Check_Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_COLOR_THEME.resx">
+      <DependentUpon>FRM_COLOR_THEME.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Connection_Update.resx">
+      <DependentUpon>Frm_Connection_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CUSTOMERMASTER.resx">
+      <DependentUpon>FRM_CUSTOMERMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Dealear.resx">
+      <DependentUpon>FRM_Dealear.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EMPLOYEEMASTER.resx">
+      <DependentUpon>FRM_EMPLOYEEMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EXPENCESMASTER.resx">
+      <DependentUpon>FRM_EXPENCESMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EXPENCESTRANSACTION.resx">
+      <DependentUpon>FRM_EXPENCESTRANSACTION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EXPENCES_TRANSACTION.resx">
+      <DependentUpon>FRM_EXPENCES_TRANSACTION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ITEMMASTER.resx">
+      <DependentUpon>FRM_ITEMMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_LOGIN.resx">
+      <DependentUpon>FRM_LOGIN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_MAIN.resx">
+      <DependentUpon>FRM_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_MEASUREMENTMASTER.resx">
+      <DependentUpon>FRM_MEASUREMENTMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_PERMISSION.resx">
+      <DependentUpon>FRM_PERMISSION.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ProductMaster.resx">
+      <DependentUpon>FRM_ProductMaster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_PROD_PROCESS.resx">
+      <DependentUpon>FRM_PROD_PROCESS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_PURCHASEPAID.resx">
+      <DependentUpon>FRM_PURCHASEPAID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ROOTMASTER.resx">
+      <DependentUpon>FRM_ROOTMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ROOTTRANSACTION.resx">
+      <DependentUpon>FRM_ROOTTRANSACTION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ROWMATERIAL.resx">
+      <DependentUpon>FRM_ROWMATERIAL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ROWMATERIALMASTER.resx">
+      <DependentUpon>FRM_ROWMATERIALMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SALESRECOVERY.resx">
+      <DependentUpon>FRM_SALESRECOVERY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SALESRECOVERYCHECK.resx">
+      <DependentUpon>FRM_SALESRECOVERYCHECK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SHOPMASTER.resx">
+      <DependentUpon>FRM_SHOPMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SOURCEMASTER.resx">
+      <DependentUpon>FRM_SOURCEMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_splash.resx">
+      <DependentUpon>frm_splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SUBEXPENCESMASTER.resx">
+      <DependentUpon>FRM_SUBEXPENCESMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SUBITEMMASTER.resx">
+      <DependentUpon>FRM_SUBITEMMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_SUPPLIERMASTER.resx">
+      <DependentUpon>FRM_SUPPLIERMASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_TALUKAMASTER.resx">
+      <DependentUpon>FRM_TALUKAMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_TRANSPORTATION_MASTER.resx">
+      <DependentUpon>FRM_TRANSPORTATION_MASTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_UpdateInvoice.resx">
+      <DependentUpon>FRM_UpdateInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_USERMASTER.resx">
+      <DependentUpon>FRM_USERMASTER.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Vehical_Details.resx">
+      <DependentUpon>FRM_Vehical_Details.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KryptonListView.resx">
+      <DependentUpon>KryptonListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyMessageBox.resx">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WITHOUTFLICKERTABLELAYOUTPANEL.resx">
+      <DependentUpon>WITHOUTFLICKERTABLELAYOUTPANEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report_Name.cs" />
+    <Compile Include="Resolution.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="WITHOUTFLICKERTABLELAYOUTPANEL.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <None Include="Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business_Report\Business_Report.csproj">
+      <Project>{5D3E1F42-5B16-4FE1-9F4A-29770E2E5D4F}</Project>
+      <Name>Business_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BUSSINESS_LAYER\BUSSINESS_LAYER.csproj">
+      <Project>{48623DB7-FF26-4CE8-BFF7-310667D70479}</Project>
+      <Name>BUSSINESS_LAYER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hotspot_icon.ico" />
+    <Content Include="img\Back-up-your-e-mails-with-Backup-E-mail.jpg" />
+    <Content Include="img\direct-mail-statistics.jpg" />
+    <Content Include="img\email5.gif" />
+    <Content Include="img\loading40.gif" />
+    <Content Include="img\mail1.jpg" />
+    <Content Include="img\Windows_Live_Mail.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
