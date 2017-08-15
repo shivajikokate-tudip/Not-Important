@@ -54,3 +54,9 @@ D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\DATA_LAYER\bin\Debug
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\DATA_LAYER\obj\Debug\DATA_LAYER.dll
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\DATA_LAYER\obj\Debug\DATA_LAYER.pdb
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\DATA_LAYER\obj\Debug\DATA_LAYER.csprojResolveAssemblyReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\bin\Debug\DATA_LAYER.dll.config
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\bin\Debug\System.Data.SQLite.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\DATA_LAYER\obj\Debug\DATA_LAYER.pdb

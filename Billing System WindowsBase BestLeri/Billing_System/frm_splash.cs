@@ -1,15 +1,7 @@
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
-using System.Diagnostics;
 using System.Runtime.InteropServices;
-using System.Globalization;
-using System.Reflection;
 using BUSSINESS_LAYER;
 
 
@@ -35,41 +27,8 @@ namespace BILLING_SYSTEM
 
         private void frm_splash_Load(object sender, EventArgs e)
         {
-
-            //string text = "";
             kryptonManager1.GlobalPaletteMode = function.PalletMode(function.set_theme_name(true, ""));
             function.settheme(this);
-            //Assembly SampleAssembly = Assembly.GetExecutingAssembly();
-            //Type[] ts = SampleAssembly.GetTypes(); ;
-
-            //for (int i = 0; i < ts.Length; i++)
-            //{
-            //    if (ts[i].IsSubclassOf(typeof(Form)) || (ts[i]).GetType() == typeof(Form))
-            //    {
-            //        try
-            //        {
-            //            text += ts[i].Name + "\n";
-            //            module.glb["f_temp_name"] = ts[i].Name;
-            //            module.glb["ctl_temp_name"] = "";
-            //            Form f = (Form)SampleAssembly.CreateInstance(ts[i].ToString());
-            //            f.Show();
-            //            function.insert_name(f);
-            //            List<string> para = new List<string>();
-            //            List<string> para_value = new List<string>();
-            //            para.Add("@fname");
-            //            para_value.Add(module.glb["f_temp_name"].ToString());
-            //            para.Add("@ctlname_text");
-            //            para_value.Add(module.glb["ctl_temp_name"].ToString());
-            //            DataSet ds = bl_obj.blFill_para_name(para, para_value, "sp_insert_name");
-            //            module.glb["ctl_temp_name"] = "";
-            //        }
-            //        catch (Exception ex)
-            //        {
-
-            //        }
-            //    }
-            //}
-            //MessageBox.Show(text);
         }
 
         public static void SetShortDate(string strShortDate)
@@ -102,16 +61,16 @@ namespace BILLING_SYSTEM
                 {
                     try
                     {
-                        if (ok() == false && setting.ConnectionStringUpdate == false)
+                        if (IsConnectionValid() == false && setting.ConnectionStringUpdate == false)
                         {
                             timer1.Enabled = false;
                             Frm_Connection_Update f = new Frm_Connection_Update();
                             f.Show();
                         }
-                        else if (ok() == false && setting.ConnectionStringUpdate == true)
+                        else if (IsConnectionValid() == false && setting.ConnectionStringUpdate == true)
                         {
                             timer1.Enabled = false;
-                            KryptonMessageBox.Show(this, "Not Conected To Database", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            KryptonMessageBox.Show(this, "Please check database connection!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             this.Dispose(false);
                             Application.Exit();
                         }
@@ -125,8 +84,8 @@ namespace BILLING_SYSTEM
 
                 if (progressBar1.Value == 80)
                 {
-                    int tempHeight = 0, tempWidth = 0;
-
+                    /* Default screen resolution */
+                    //int tempHeight = 0, tempWidth = 0;
                     //Screen Srn = Screen.PrimaryScreen;
                     //tempHeight = Srn.Bounds.Width;
                     //tempWidth = Srn.Bounds.Height;
@@ -148,7 +107,7 @@ namespace BILLING_SYSTEM
                 new FRM_LOGIN().Show();
             }
         }
-        private bool ok()
+        private bool IsConnectionValid()
         {
             bool okyn = false;
             string new_connectionstring = setting.ConnectionString_Web.ToString();

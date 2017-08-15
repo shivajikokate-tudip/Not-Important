@@ -64,3 +64,11 @@ D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\D
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.csprojResolveAssemblyReference.cache
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb

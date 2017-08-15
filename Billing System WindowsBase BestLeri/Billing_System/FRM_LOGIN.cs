@@ -192,7 +192,11 @@ namespace BILLING_SYSTEM
                     //panel2.Enabled = false;
                     panel1.Visible = true;
                     //panel1.Enabled = false;
-                    button3.Focus();
+                    timer1.Enabled = false;
+                    timer2.Enabled = false;
+                    timer3.Enabled = false;
+                    FRM_MAIN f1 = new FRM_MAIN();
+                    f1.Show();
                     //label4.Text = ds.Tables[0].Rows[0][1].ToString();
                 }
             }

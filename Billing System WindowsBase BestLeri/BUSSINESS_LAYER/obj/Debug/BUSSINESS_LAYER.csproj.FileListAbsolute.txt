@@ -78,3 +78,13 @@ D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
 D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csprojResolveAssemblyReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csprojResolveAssemblyReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
