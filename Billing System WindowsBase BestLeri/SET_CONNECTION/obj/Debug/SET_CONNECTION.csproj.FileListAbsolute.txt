@@ -1,0 +1,74 @@
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+E:\Amol\Billing_System\Billing_System\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\SOFT\drive-download-20170117T072826Z\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource.read.1.tlog
+D:\System Project\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource.write.1.tlog
+D:\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\Billing System WindowsBase\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\Billing System WindowsBase\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.csprojResolveAssemblyReference.cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe.config
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.exe
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\bin\Debug\SET_CONNECTION.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.Properties.Resources.resources
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.Set_Connection.resources
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb

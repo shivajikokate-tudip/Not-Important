@@ -1,0 +1,28 @@
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\bin\Debug\DATA_LAYER.dll.config
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\bin\Debug\System.Data.SQLite.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\DATA_LAYER\obj\Debug\DATA_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\bin\Debug\DATA_LAYER.dll.config
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\bin\Debug\System.Data.SQLite.dll
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\obj\Debug\ResolveAssemblyReference.cache
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+E:\Amol\Billing_System\Billing_System\DATA_LAYER\obj\Debug\DATA_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\bin\Debug\DATA_LAYER.dll.config
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\bin\Debug\System.Data.SQLite.dll
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\DATA_LAYER\obj\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\DATA_LAYER\bin\Debug\DATA_LAYER.dll.config
+D:\Billing System WindowsBase\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\DATA_LAYER\bin\Debug\System.Data.SQLite.dll
+D:\Billing System WindowsBase\DATA_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\DATA_LAYER\obj\Debug\DATA_LAYER.pdb

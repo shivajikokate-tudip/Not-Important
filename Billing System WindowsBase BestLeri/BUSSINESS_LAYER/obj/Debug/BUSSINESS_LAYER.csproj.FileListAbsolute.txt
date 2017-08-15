@@ -1,0 +1,90 @@
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\SAGART_BIOPDS_ BACKUP\BIO_RATION_DATAENTRY\BIO_RATION_DATAENTRY\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+E:\Amol\Billing_System\Billing_System\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\SOFT\drive-download-20170117T072826Z\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\System Project\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\Vishal\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\Bestlari_07-06-2017\Billing System WindowsBase(BestLeri)\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csprojResolveAssemblyReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\BUSSINESS_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\DATA_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\bin\Debug\Interop.ADOX.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csprojResolveAssemblyReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\Interop.ADOX.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
