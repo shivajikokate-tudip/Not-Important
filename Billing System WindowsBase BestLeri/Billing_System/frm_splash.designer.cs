@@ -63,7 +63,7 @@ namespace BILLING_SYSTEM
             this.kryptonCheckButton3.StateCommon.Content.ShortText.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kryptonCheckButton3.StateCommon.Content.ShortText.TextH = ComponentFactory.Krypton.Toolkit.PaletteRelativeAlign.Center;
             this.kryptonCheckButton3.TabIndex = 8;
-            this.kryptonCheckButton3.Values.Text = "BILLING";
+            this.kryptonCheckButton3.Values.Text = "BUSINESS";
             // 
             // kryptonCheckButton2
             // 
@@ -73,7 +73,7 @@ namespace BILLING_SYSTEM
             this.kryptonCheckButton2.StateCommon.Content.ShortText.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kryptonCheckButton2.StateCommon.Content.ShortText.TextH = ComponentFactory.Krypton.Toolkit.PaletteRelativeAlign.Center;
             this.kryptonCheckButton2.TabIndex = 7;
-            this.kryptonCheckButton2.Values.Text = "SYSTEM";
+            this.kryptonCheckButton2.Values.Text = "SOLUTION";
             // 
             // kryptonLabel2
             // 

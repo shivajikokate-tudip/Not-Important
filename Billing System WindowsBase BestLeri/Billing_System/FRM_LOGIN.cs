@@ -1,9 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
 using System.Runtime.InteropServices;
@@ -127,12 +124,12 @@ namespace BILLING_SYSTEM
         {
             if (textBox1.Text.Trim().CompareTo("") == 0)
             {
-                KryptonMessageBox.Show("User Name Must Not Be Blank");
+                KryptonMessageBox.Show("User name should not blank");
                 return false;
             }
             else if (maskedTextBox1.Text.Trim().CompareTo("") == 0)
             {
-                KryptonMessageBox.Show("Password Must Not Be Blank");
+                KryptonMessageBox.Show("Password should not blank");
                 return false;
             }
             else
