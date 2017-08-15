@@ -649,7 +649,7 @@ namespace BILLING_SYSTEM
                                 bl_obj.form = "SI";
                                 bl_obj.Sales_Id = sales_ID = Convert.ToInt32(lvw.Items[0].SubItems[11].Text.Trim());
                                 bl_obj.Invoice_Number = Invoice_No = Convert.ToInt32(txtInvoiceNo.Text.Trim());
-                                bl_obj.Customer_Id = cmdfirmname.SelectedIndex;
+                                bl_obj.Customer_Id = Convert.ToInt32(cmdfirmname.SelectedValue.ToString());
                                 //bl_obj.Tras_Date =Convert .ToDateTime( function.convertdate_string_date(function.SysDate(), dtpDate));
                                 bl_obj.Tras_Date = dtpDate.Value.ToString("yyyy-MM-dd");
                                 bl_obj.Carton = Convert.ToInt32("0");

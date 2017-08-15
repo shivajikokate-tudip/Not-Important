@@ -1288,7 +1288,7 @@ namespace BILLING_SYSTEM
                     //bl_obj.TrasportEmp_Id= ;
                     bl_obj.TEmployee_Name = txtDriverName.Text;
                     bl_obj.TVehicale_Number = cmbVehical_No.Text;
-                    bl_obj.TEmployee_Number = Convert.ToInt32(txtContactNo.Text);
+                    bl_obj.TEmployee_Number = txtContactNo.Text.ToString();
                     bl_obj.Transportation = Convert.ToInt32(cmbTrans.SelectedValue);
                     kryptonPanel7.Visible = false;
                 }

@@ -144,14 +144,14 @@ namespace BUSSINESS_LAYER
             get { return _form; }
             set { _form = value; }
         }
-        int _TrasportEmp_Id, _TEmployee_Number;
-        public int TrasportEmp_Id
+        string _TrasportEmp_Id, _TEmployee_Number;
+        public string TrasportEmp_Id
         {
             get { return _TrasportEmp_Id; }
             set { _TrasportEmp_Id = value; }
         }
 
-        public int TEmployee_Number
+        public string TEmployee_Number
         {
             get { return _TEmployee_Number; }
             set { _TEmployee_Number = value; }

@@ -251,6 +251,7 @@ namespace BILLING_SYSTEM
                 cmbTransport.SelectedValue = lm.SubItems[6].Text;
                 txtDescription.Text = lm.SubItems[7].Text;
             }
+            optedit.Checked = true;
         }
     }
 }
