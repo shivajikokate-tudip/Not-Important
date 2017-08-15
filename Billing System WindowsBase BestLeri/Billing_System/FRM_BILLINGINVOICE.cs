@@ -495,7 +495,7 @@ namespace BILLING_SYSTEM
                             if (Validation2('A', out msg))
                             {
                                 bl_obj.form = "SI";
-                                bl_obj.Customer_Id =Convert.ToInt32(cmdfirmname.SelectedValue.ToString());
+                                bl_obj.Customer_Id = Convert.ToInt32(cmdfirmname.SelectedValue.ToString());
                                 //bl_obj.Tras_Date =Convert .ToDateTime( function.convertdate_string_date(function.SysDate(), dtpDate));
                                 bl_obj.Tras_Date = dtpDate.Value.ToString("yyyy-MM-dd");
                                 bl_obj.Carton = Convert.ToInt32("0");
