@@ -284,13 +284,7 @@ namespace BILLING_SYSTEM
                 {
                     if (optSales.Checked == true)
                     {
-
-                        //txtAmount.Text = (
-                        //                            (Convert.ToDouble(txtQuantity.Text) * Convert.ToDouble(txtRate.Text))
-                        //                            -
-                        //                            (((Convert.ToDouble(txtQuantity.Text) * Convert.ToDouble(txtRate.Text)) * 13.5) / 100)
-                        //                            ).ToString();
-                        txtAmount.Text = (Convert.ToDouble(txtQuantity.Text) * (Convert.ToDouble(txtRate.Text.Trim()) * 100 / 113.5)).ToString();
+                        txtAmount.Text = CalculateAmount(Convert.ToDouble(txtRate.Text.Trim()));
                     }
                     else if (optPurchase.Checked == true)
                     {
@@ -372,50 +366,6 @@ namespace BILLING_SYSTEM
             cmbSelectItem.SelectionStart = 0;
             cmbSelectItem.SelectionLength = cmbSelectItem.Text.Length;
             sname = cmbSelectItem.Text;
-            //try
-            //{
-                ////if (Validate1('A', out msg))
-                ////{
-                ////    int cnt = lvw.Items.Count - 1;
-                ////    if (cnt == 0)
-                ////    {
-                ////        cnt = 1;
-                ////    }
-                ////    else
-                ////    {
-                ////        cnt = cnt + 1;
-                ////    }
-                ////    bool Found = false;
-                ////    if (lvw.Items.Count > 0)
-                ////    {
-                ////        //Check if the product Id exists with the same Price
-                ////        //foreach (DataGridViewRow row in dataGridView1.Rows)
-                ////        //{
-                ////        //    if (Convert.ToString(row.Cells[1].Value) == cmbSelectItem.SelectedValue.ToString())
-                ////        //    {
-                ////        //        //Update the Quantity of the found row
-                ////        //        if (row.Cells[4].Value.ToString() == txtRate.Text.ToString())
-                ////        //        {
-                ////        //            row.Cells[3].Value = Convert.ToString(Convert.ToDouble(txtQuantity.Text) + Convert.ToDouble(row.Cells[3].Value));
-                ////        //            row.Cells[5].Value = Convert.ToString(Convert.ToDouble(txtAmount.Text) + Convert.ToDouble(row.Cells[5].Value));
-
-                ////        //        }
-                ////        //        else
-                ////        //            MyMessageBox.ShowBox(" Rate Not Match "); Found = true;
-                ////        //    }
-                ////        //}
-                ////        //if (!Found)
-                ////        //{
-                ////        //    //Add the row to grid view
-                ////        //    dataGridView1.Rows.Insert(0, cnt, cmbSelectItem.SelectedValue, sname, txtQuantity.Text.ToString(), txtRate.Text.ToString(), txtAmount.Text.ToString());
-                ////        //}
-                ////    }
-                ////    else
-                ////    {
-                ////        //Add the row to grid view for the first time
-                ////        //dataGridView1.Rows.Insert(0, cnt, cmbSelectItem.SelectedValue, sname, txtQuantity.Text.ToString(), txtRate.Text.ToString(), txtAmount.Text.ToString());
-                ////    }
-                    ///////////////////////////////////////////////////////////////////////
                     try
                     {
                         if (rbAdd.Checked)
@@ -433,7 +383,7 @@ namespace BILLING_SYSTEM
                                     arr[0] = cmbSelectItem.Text.Trim();
                                     arr[1] = cmbSelectItem.SelectedValue.ToString();
                                     arr[2] = txtQuantity.Text.Trim();
-                                    arr[3] = (Convert.ToDouble(txtRate.Text.Trim()) * 100 / 113.5).ToString().ToString();
+                                    arr[3] = CalculateRateWithoutGst(Convert.ToDouble(txtRate.Text.Trim()));
                                     arr[4] = txtAmount.Text.Trim(); 
                                     arr[5] = "N";
                                     lm = new ListViewItem(arr);
@@ -467,7 +417,7 @@ namespace BILLING_SYSTEM
                                 lvw.Items[Record_ID].SubItems[0].Text = cmbSelectItem.Text.Trim();
                                 lvw.Items[Record_ID].SubItems[1].Text = cmbSelectItem.SelectedValue.ToString().Trim();
                                 lvw.Items[Record_ID].SubItems[2].Text = txtQuantity.Text.Trim();
-                                lvw.Items[Record_ID].SubItems[3].Text = (Convert.ToDouble(txtRate.Text.Trim()) * 100 / 113.5).ToString().ToString();
+                                lvw.Items[Record_ID].SubItems[3].Text = CalculateRateWithoutGst(Convert.ToDouble(txtRate.Text.Trim()));
                                 lvw.Items[Record_ID].SubItems[4].Text = txtAmount.Text.Trim();
                                 if (lvw.Items[Record_ID].SubItems[5].Text.Trim() == "A")
                                 {
@@ -1370,12 +1320,7 @@ namespace BILLING_SYSTEM
                 {
                     if (optSales.Checked == true)
                     {
-                        //txtAmount.Text = (
-                        //                            (Convert.ToDouble(txtQuantity.Text) * Convert.ToDouble(txtRate.Text))
-                        //                            -
-                        //                            (((Convert.ToDouble(txtQuantity.Text) * Convert.ToDouble(txtRate.Text)) * 13.5) / 100)
-                        //                            ).ToString();
-                        txtAmount.Text = (Convert.ToDouble(txtQuantity.Text) * (Convert.ToDouble(txtRate.Text.Trim()) * 100 / 113.5)).ToString();
+                        txtAmount.Text = CalculateAmount(Convert.ToDouble(txtRate.Text.Trim()));
                     }
                     else if (optPurchase.Checked == true)
                     {
@@ -1660,7 +1605,7 @@ namespace BILLING_SYSTEM
                     {
                         cmbSelectItem.SelectedValue = Int32.Parse(im.SubItems[1].Text.Trim());
                         txtQuantity.Text = im.SubItems[2].Text;
-                        txtRate.Text =  ((Convert.ToDouble(im.SubItems[3].Text.Trim())*113.5)/100).ToString();
+                        txtRate.Text = CalculateRateWithGst(Convert.ToDouble(im.SubItems[3].Text.Trim()));
                         txtTotal.Text = im.SubItems[4].Text;
                         index_Of_Row = im.Index;
                         
@@ -1815,6 +1760,21 @@ namespace BILLING_SYSTEM
         private void txtExciseDuety_KeyPress(object sender, KeyPressEventArgs e)
         {
             bl.validateNumber(e);
+        }
+
+        private string CalculateAmount(double rate)
+        {
+          return (Convert.ToDouble(txtQuantity.Text) * (rate / (Convert.ToDouble(txtVatPercent.Text) / 100 + 1))).ToString();
+        }
+
+        private string CalculateRateWithGst(double rate)
+        {
+            return (rate * (Convert.ToDouble(txtVatPercent.Text) / 100 + 1)).ToString();
+        }
+
+        private string CalculateRateWithoutGst(double rate)
+        {
+            return (rate / (Convert.ToDouble(txtVatPercent.Text) / 100 + 1)).ToString();
         }
     }
 }

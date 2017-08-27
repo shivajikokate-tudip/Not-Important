@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Report", "Business
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SET_CONNECTION", "SET_CONNECTION\SET_CONNECTION.csproj", "{5B6A3827-DE75-42AE-A718-A2ACA5FDF211}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WaterSolutionUpdated", "WaterSolutionUpdated\WaterSolutionUpdated.vdproj", "{FA5AB653-AD18-4105-9A37-4D1AEC8215BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,8 @@ Global
 		{5B6A3827-DE75-42AE-A718-A2ACA5FDF211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6A3827-DE75-42AE-A718-A2ACA5FDF211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6A3827-DE75-42AE-A718-A2ACA5FDF211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5AB653-AD18-4105-9A37-4D1AEC8215BF}.Debug|Any CPU.ActiveCfg = Debug
+		{FA5AB653-AD18-4105-9A37-4D1AEC8215BF}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
