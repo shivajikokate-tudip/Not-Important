@@ -244,12 +244,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_B5030FDC3AE28E36C96E827222661EF7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_836D8F9D0DBF46DDB8E5FFFAC1522455"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -343,6 +337,12 @@
         "OwnerKey" = "8:_1F0E6B14384A45F1CC912509E61999D6"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_B5030FDC3AE28E36C96E827222661EF7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -370,11 +370,6 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
-                    {
-                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
-                    "ProductCode" = "8:.NETFramework,Version=v4.5"
-                    }
                     "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Net.Framework.3.5.SP1"
                     {
                     "Name" = "8:.NET Framework 3.5 SP1"
@@ -398,6 +393,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -1040,7 +1043,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:WaterSolutionUpdated"
         "ProductCode" = "8:{3A53907E-7FD7-422C-B60F-70F44BA6BDBF}"
-        "PackageCode" = "8:{44274668-1290-481A-8D1D-2BAACD611A0A}"
+        "PackageCode" = "8:{01AB360C-FE4B-42A1-827A-61D5D6F7955D}"
         "UpgradeCode" = "8:{7B8499C7-97FC-4BE1-8DCF-52A1C7DBDA24}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

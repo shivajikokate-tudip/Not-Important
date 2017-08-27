@@ -72,3 +72,4 @@ D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\ob
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.csproj.GenerateResource.Cache
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.exe
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\SET_CONNECTION\obj\Debug\SET_CONNECTION.csprojResolveAssemblyReference.cache

@@ -122,8 +122,8 @@
     <Compile Include="RptGSTTax.cs">
       <DependentUpon>RptGSTTax.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="FRM_RPTCOLLECTIONREPORT.cs">
       <SubType>Form</SubType>
@@ -140,8 +140,8 @@
     <Compile Include="rptCustomerLedgerNew.cs">
       <DependentUpon>rptCustomerLedgerNew.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="FRM_CashBook.cs">
       <SubType>Form</SubType>
@@ -254,8 +254,8 @@
     <Compile Include="RptPurchase.cs">
       <DependentUpon>RptPurchase.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="FRM_DayBook.cs">
       <SubType>Form</SubType>
@@ -320,8 +320,8 @@
     <Compile Include="RptScrapwise.cs">
       <DependentUpon>RptScrapwise.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="DataSet_Report.cs">
       <DependentUpon>DataSet_Report.xsd</DependentUpon>
