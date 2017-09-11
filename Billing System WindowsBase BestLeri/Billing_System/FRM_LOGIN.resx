@@ -123,15 +123,14 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="loginheader.ValuesPrimary.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhPtZExSwMxFIBb/AdKk2KnDv4AJ0c5pFO9O6Ht
-        4CBS+gMq6CW5ikPHUg4SwcFRSinSwdnBycHRwaEguIjN9R9IcYgv0Za76ylCcfh4SXjvy3tJRimVXYb/
-        E5RbQcEmvOR4wqr6IpeWo1kQ2MfnRYfyrkv5cAZI+i4VdjJXExOUPb5RY539MUVNyXBfUjSIEjLck34+
-        1k1MALcFkqBTSFSS4hcdQ4YUCJ9CiqZ6Pyb4KlozFzhUbDqE38JN4kuQq5gCii4gtkOqZQCI3tj62qKA
-        8LpDxPSInriQHIQetkDWgaItfeuY4QcjACY+2kkVwEMpl4gPl/C7XU9s2x4P9iBCdzdw1n4mxYbuJF0A
-        IxjBHF7REcSXUHxm1pQ3YYRR6ghGQsT9XED4aLYG+SPs36te9wA66EZrYgL9jVAwSALiXpUEdXiLxq/f
-        aKhlViTLH0qGrqHdocas4SeSxZpFwTevrdXChKBS6GMrOnOSHwV/ZUmByn4C+/SNbYMZvM8AAAAASUVO
-        RK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAXpJREFUOE+1kTFLAzEUgFv8B0qTYqcO/gAnRzmkU707oe3gIFL6AyroJbmKQ8dS
+        DhLBwVFKKdLB2cHJwdHBoSC4iM31H0hxiC/RlrvrKUJx+HhJeO/Le0lGKZVdhv8TlFtBwSa85HjCqvoi
+        l5ajWRDYx+dFh/KuS/lwBkj6LhV2MlcTE5Q9vlFjnf0xRU3JcF9SNIgSMtyTfj7WTUwAtwWSoFNIVJLi
+        Fx1DhhQIn0KKpno/JvgqWjMXOFRsOoTfwk3iS5CrmAKKLiC2Q6plAIje2PraooDwukPE9IieuJAchB62
+        QNaBoi1965jhByMAJj7aSRXAQymXiA+X8LtdT2zbHg/2IEJ3N3DWfibFhu4kXQAjGMEcXtERxJdQfGbW
+        lDdhhFHqCEZCxP1cQPhotgb5I+zfq173ADroRmtiAv2NUDBIAuJelQR1eIvGr99oqGVWJMsfSoauod2h
+        xqzhJ5LFmkXBN6+t1cKEoFLoYys6c5IfBX9lSYHKfgL79I1tgxm8zwAAAABJRU5ErkJggg==
 </value>
   </data>
   <metadata name="kryptonManager1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">

@@ -88,3 +88,4 @@ D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\o
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.csproj.ResolveComReference.cache
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.dll
 D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\BUSSINESS_LAYER.pdb
+D:\WaterRepo\Not-Important\Billing System WindowsBase BestLeri\BUSSINESS_LAYER\obj\Debug\Interop.ADODB.dll

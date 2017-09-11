@@ -140,61 +140,38 @@ namespace BILLING_SYSTEM
         }
         private void button1_Click_1(object sender, EventArgs e)
         {
-           
             cnt++;
             if (cnt <= 3)
             {
                 if (Validate())
                 {
                     bl_obj.Load_Login = false;
-                    //bl_obj.PlNo = Convert.ToInt32(cboPlno.SelectedValue.ToString());
-                    //bl_obj.AcNo = Convert.ToInt32(CboAcNo.SelectedValue.ToString());
                     bl_obj1.UserName = textBox1.Text;
                     bl_obj1.Password = (function.Decrypt(maskedTextBox1.Text));
-
-                        
                     DataSet ds = bl_obj1.select(bl_obj1);
 
                     if (function.CheckExistsDs(ds, 0))
-                        if (true)
-                        {
-                            MODULE.glb.Clear();
-                            //MODULE.glb.Add("USERNAME", ds.Tables[0].Rows[0]["USER_NAME"].ToString());
-                            //MODULE.glb.Add("GROUP_ID", ds.Tables[0].Rows[0]["GROUP_ID"].ToString());
-                            //MODULE.glb.Add("SHOP_ID", ds.Tables[0].Rows[0]["Shop_Id"].ToString());
-                            //MODULE.glb.Add("SHOP_NAME", ds.Tables[0].Rows[0]["Shop_name"].ToString());
-                            //MODULE.glb.Add("GROUP_NAME", ds.Tables[0].Rows[0]["GROUP_NAME"].ToString());
-
-                            MODULE.glb.Add("USERNAME", ds.Tables[0].Rows[0]["UserName"].ToString());
-                            MODULE.glb.Add("GROUP_ID", ds.Tables[0].Rows[0]["GroupId"].ToString());
-                            MODULE.glb.Add("SHOP_ID", ds.Tables[0].Rows[0]["UserId"].ToString());
-                            MODULE.glb.Add("SHOP_NAME", "WATER BILLING SOLUTION");
-                            MODULE.glb.Add("GROUP_NAME", "Developer");
-
-
-                            label4.Text = "Login Successfully".ToUpper();
-                        }
-                        else
-                        {
-                            label4.Text = "User Name Or Password Is Incorrect";
-                        }
+                    {
+                        MODULE.glb.Clear();
+                        MODULE.glb.Add("USERNAME", ds.Tables[0].Rows[0]["UserName"].ToString());
+                        MODULE.glb.Add("GROUP_ID", ds.Tables[0].Rows[0]["GroupId"].ToString());
+                        MODULE.glb.Add("SHOP_ID", ds.Tables[0].Rows[0]["UserId"].ToString());
+                        MODULE.glb.Add("SHOP_NAME", "WATER BILLING SOLUTION");
+                        MODULE.glb.Add("GROUP_NAME", "Developer");
+                        label4.Text = "Login Successfully".ToUpper();
+                        SuccessLogin();
+                        return;
+                    }
                     else
                     {
-                        label4.Text = "User Name Or Password Is Incorrect";
+                        ShowErrorMessage();
                     }
                     panel1.Left = loginheader.Location.X;
                     panel1.Top = 0;
                     panel1.Location = new Point(loginheader.Location.X, panel1.Location.Y - panel1.Height);
                     timer1.Enabled = true;
-                    //panel2.Enabled = false;
                     panel1.Visible = true;
-                    //panel1.Enabled = false;
-                    timer1.Enabled = false;
-                    timer2.Enabled = false;
-                    timer3.Enabled = false;
-                    FRM_MAIN f1 = new FRM_MAIN();
-                    f1.Show();
-                    //label4.Text = ds.Tables[0].Rows[0][1].ToString();
+                    button3.Focus();
                 }
             }
             else
@@ -202,6 +179,11 @@ namespace BILLING_SYSTEM
                 MessageBox.Show("Access Denied", "Acces Denied", MessageBoxButtons.OK);
                 Application.Exit();
             }
+        }
+
+        private void ShowErrorMessage()
+        {
+            label4.Text = "User Name Or Password Is Incorrect";
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -223,6 +205,11 @@ namespace BILLING_SYSTEM
         }
 
         private void button3_Click(object sender, EventArgs e)
+        {
+            SuccessLogin();
+        }
+
+        private void SuccessLogin()
         {
             if (label4.Text.ToUpper().CompareTo("LOGIN SUCCESSFULLY".ToUpper()) == 0)
             {
